@@ -1,0 +1,4 @@
+﻿fun main(string[] args) {
+	var kintamasis = "Hello, World";
+	print kintamasis;
+}
